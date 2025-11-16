@@ -24,6 +24,7 @@ public class SiakadWhile14 {
             // Menentukan kategori nilai huruf
             if (nilai > 80 && nilai <= 100) {
                 System.out.println("Kategori: A");
+                System.out.println("Bagus Pertahankan Nilainya!");
             } else if (nilai > 73 && nilai <= 80) {
                 System.out.println("Kategori: B+");
             } else if (nilai > 65 && nilai <= 73) {
